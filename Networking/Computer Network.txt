@@ -1,0 +1,49 @@
+TCP HEADER & 3-WAY Handshake :- https://www.youtube.com/watch?v=nQlhUKbuwT4&t=453s
+
+Serial and Parallel Data Transmission :- https://www.youtube.com/watch?v=yyZ9igRsm7o
+
+Asynchronous and Synchronous Serial Data :- https://www.youtube.com/watch?v=S2q7enbXlTE
+i
+CRC with polynomials :- https://www.youtube.com/watch?v=Gdt2OQ2xSWU&t=125s
+
+X.25protocol :- 
+https://www.youtube.com/watch?v=dT9NE-w55VA
+https://www.youtube.com/watch?v=eRH4e7ByYK4
+
+Frame Relay :- https://www.youtube.com/watch?v=5LlS9_1WxTQ
+
+Message Digest :- https://www.youtube.com/watch?v=G_qtQgRmiWk
+
+Sliding Window Protocol :- https://www.youtube.com/watch?v=LnbvhoxHn8M
+
+Go-Back-N ARQ :- https://www.youtube.com/watch?v=QD3oCelHJ20
+
+Multiplexing :- https://www.youtube.com/watch?v=IR-p1A_PQ3w
+
+ATM :- https://www.youtube.com/watch?v=WcqGYvKTsoI&t=24s
+
+Importants Point
+OSI
+TCP/IP Model
+Topology
+Transmission Mode
+Digital modulation techniques
+synchronous and Asynchronous transmission
+Address Resolution Protocol 
+*Frame Relay*
+MD5
+*serial and parallel*
+*analog vs digital communication*
+pure and slotted aloha
+symmetric and asymmetric cryptography
+Public and private key cryptography
+*CDMA & CSMA*
+*Multiplexing*
+*circuit switching with virtual circuit*
+RSA
+3-way handshake
+*ATM*
+*IPv4 and IPv6*
+*ARP and RARP*
+*Go-Back-N & Stop-Wait ARQ & sliding window protocol* 
+*Vector Routing*

@@ -1,0 +1,25 @@
+*Coupling vs cohesion and Types* :- https://www.youtube.com/watch?v=Sku73xdulG0&t=166s
+
+Design Principal :- https://www.youtube.com/watch?v=1-Lo0127nyI
+
+*SRS* :- https://www.youtube.com/watch?v=83-S5Qu6VP8&t=494s
+
+*DFD* :- https://www.youtube.com/watch?v=ZPdiLWFgmdU
+
+*ERD* :- https://www.youtube.com/watch?v=GBjLgU1WZvo&t=464s
+
+Real System vs Distributed Systems
+
+*Role of Systems Analyst* :- https://www.youtube.com/watch?v=aM0V8FiCyws&t=273s
+
+SDLC Phase
+
+*2 Requirements Gathering Techniques vs Fact Finding Techniques*
+
+*Types of Documentation*
+
+*Data Dictionary* :- https://www.youtube.com/watch?v=YflikN1VJ50
+
+*Case Tool*
+
+Expert System

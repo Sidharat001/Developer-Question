@@ -1,0 +1,31 @@
+Time Complexcity Order :-
+O(1) > O(log n) > O(n) > O(nlog n) > O(n^2) > O(n^3) > O(2^n) > O(n!)
+
+Representations of Graphs :- https://www.youtube.com/watch?v=Gs_YMksyM_k&t=2s
+
+Breadth First Search :- https://www.youtube.com/watch?v=T6xqFvYNXDY
+
+DFS :- 
+
+Minimum Spanning Tree :- 
+https://www.youtube.com/watch?v=J_x3wcC8ZE0
+https://www.youtube.com/watch?v=h6cUkkaKNHw
+
+Kruskal’s algorithm :- 
+https://www.youtube.com/watch?v=huQojf2tevI
+https://www.youtube.com/watch?v=6dGk2mq-Mhg
+
+Prim’s algorithm :- https://www.youtube.com/watch?v=_KX8GDvRzBc&t=97s
+
+Dijkstra’s algorithm :- 
+
+recurrence relations :- 
+
+Adjacency Matrix :- 
+
+Insertion Sort :- 
+
+Marge Sort :- 
+
+Greedy technique :- 
+

@@ -1,0 +1,14 @@
+*Applet vs Servlet Life Cycle*
+Exception handling
+*Multithreading*
+RMI architecture
+*Garbage collection*
+AWT and Swing components
+datagram Socket vs Stream Socket
+Object serialization
+String Class vs StringBuffer
+Session vs Cookie handling
+*JDBC Drivers*
+inheritance and polymorphism
+Final & Finally & Finalize keyword
+*Java Bean*

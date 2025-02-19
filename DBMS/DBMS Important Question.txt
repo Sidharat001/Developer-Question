@@ -1,0 +1,18 @@
+*Deadlock and avoidance protocols*
+File Based System vs Databases System
+*2 Phase locking vs 2-Phase Commit*
+*replication vs  fragmentation*
+*Normalization*
+*BST & B-Tree*
+*serial schedule & serializable schedule*
+*Relational Algebra*
+integrity constraints & Types
+log based recovery scheme
+ACID properties
+Functional Dependency
+
+*Lossless & lossy decomposition* :- https://www.youtube.com/watch?v=0LiCjs5Uwfg
+
+Centralize Database vs Distributes Database :- https://www.youtube.com/watch?v=zfHyBDqgK9k&t=32s
+
+File Based System :- https://www.youtube.com/watch?v=uMC_huQd77k

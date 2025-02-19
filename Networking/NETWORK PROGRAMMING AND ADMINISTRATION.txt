@@ -1,0 +1,21 @@
+*TCP architecture* :- https://www.youtube.com/watch?v=GfaHdjApnhU&t=21s
+
+*Distance Vector Routing* :- https://www.youtube.com/watch?v=5ZuP5qjbKSI&t=228s
+
+*UDP vs FTP* :- https://www.youtube.com/watch?v=jJyXpMmXJI0&t=40s
+
+*3-Way handshaking* :- https://www.youtube.com/watch?v=nQlhUKbuwT4&t=420s
+
+*Socket* :- https://www.youtube.com/watch?v=k_P2E7ZvhYs
+
+*DHCP* :- https://www.youtube.com/watch?v=agxRmj_4iEU&t=199s
+
+*DNS* :- https://www.youtube.com/watch?v=q-fVGJ_4U7s&t=28s
+
+ARP And RARP :- https://www.youtube.com/watch?v=3YcKrtVo2Ro
+
+ICMP
+*Find Network Address From Given IP*
+*Apache Vs Samba Servers*
+Classful Addressing & Subnet
+Row Socket & Stream socket & Datagram socket

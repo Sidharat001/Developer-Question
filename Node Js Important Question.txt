@@ -1,0 +1,47 @@
+REPL :- https://tinyurl.com/REPL0
+
+Event Loop :- https://tinyurl.com/eventsloop
+
+Phases of Event Loop :-
+
+Libuv :- https://tinyurl.com/0libuv
+
+Stream & Buffer with Types :- https://tinyurl.com/streamvsbuffer
+
+Promises & async/await & Callback & HOD :- https://tinyurl.com/0CPAA
+
+Middleware :- https://tinyurl.com/GGMiddleware
+
+CORS :- https://tinyurl.com/CorsTechSuneja
+
+Npm & Npx :- https://tinyurl.com/0NPMX
+
+Cluster :- 
+https://tinyurl.com/ClusterModules
+https://tinyurl.com/ClusterModulePG
+
+EventEmitter :- https://tinyurl.com/EventEmiter
+
+Spawn vs Fork Method :- https://tinyurl.com/ForkvsSpawn
+
+Jwt Working :- https://tinyurl.com/JwtWorking
+
+Implement Logging :- 
+https://tinyurl.com/morganLogging
+
+Hemet & Multer & Passport & NodeMailer Module :-
+https://tinyurl.com/Googlehelmet
+https://tinyurl.com/MulterModule
+https://tinyurl.com/NodeMailerGit
+
+Reverse Proxy :- https://tinyurl.com/ReverseProxy01
+
+REST and GraphQL
+OWASP Concept 
+Rate Limit
+PM2
+Pagination Concept
+Session
+Socket
+Role Types Authentication :- 
+SSL & TLS Working

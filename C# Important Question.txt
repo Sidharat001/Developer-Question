@@ -1,0 +1,21 @@
+Object Types :- https://www.youtube.com/watch?v=GfqnBDpw7s4&t=384s
+
+Var & Dynamic Keyword :- https://www.youtube.com/watch?v=Rnfw07x9sP8
+
+Ref Vs In vs Out :- https://www.youtube.com/watch?v=ZkQS0HreuSc&t=8882s
+
+String Vs StringBuilder :- https://www.youtube.com/watch?v=_m04SPTU4N0&t=349s
+
+Boxing Vs Unboxing :- https://www.youtube.com/watch?v=S9rsPhfHipc
+
+Delegate :- https://www.youtube.com/watch?v=yoAOo4dM2pk
+
+Dispose Vs Finalize :- https://www.youtube.com/watch?v=xoJ0GM2uQzM
+
+Garbage Collection :- 
+https://www.youtube.com/watch?v=oN9_kAV4YaA
+https://www.youtube.com/watch?v=qJddLT0USZU
+
+Heap And Stack :- https://www.youtube.com/watch?v=7TB_TelNnno
+
+Dependency Injection :- https://www.youtube.com/watch?v=lN-ld2cRI9M

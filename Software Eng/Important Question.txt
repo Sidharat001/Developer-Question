@@ -1,0 +1,27 @@
+SRS :- https://www.youtube.com/watch?v=83-S5Qu6VP8&t=54s
+
+*All Types of Software Development Model*
+
+RAD approach :- 
+https://www.youtube.com/watch?v=FOV0fn1xOy8
+https://www.youtube.com/watch?v=MvyVR5soJjI
+
+*Oriented Design vs Class Daigram*
+
+DFD :- https://www.youtube.com/watch?v=ZPdiLWFgmdU&t=266s
+
+ERD :- https://www.youtube.com/watch?v=GBjLgU1WZvo
+
+Module vs Integration vs Alpha vs Beta vs Black Box vs white box Testing
+
+Data Dictionary :- https://www.youtube.com/watch?v=wZ1Ja4NmzR4
+
+*Chart* :-
+Gannt Chart
+PERT Chart
+
+use case diagram
+
+Coupling’ and ‘Cohesion
+
+Debugging strategies :- https://chatgpt.com/share/675e8445-b0c4-8005-9e15-9f0457594813

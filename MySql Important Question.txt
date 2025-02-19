@@ -1,0 +1,17 @@
+Char & Varchar 
+Now & Current_TimeStamp
+Primary and Foreign Keys
+Where and Having
+Index 
+Join
+Union & Union All
+ACID properties
+Delete & Truncate & Drop
+Transaction
+InnoDB & MyIsam Storage Engine
+Cluster & Non-Cluster Index
+Triggers
+Explain Statement
+Deadlocks
+Temporary & Derived Table
+Event Scheduling

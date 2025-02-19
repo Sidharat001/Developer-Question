@@ -1,0 +1,14 @@
+Redux middleware
+Core Principal
+Redux and Context API
+Pure Function in Context of Redux
+Key components of Redux architecture
+Action & Reducer & Slice & selectors
+Internal Working
+concept of immutability
+Provider component
+connect function
+Action Chaining In middleware
+redux-thunk middleware
+dispatch
+reselect library

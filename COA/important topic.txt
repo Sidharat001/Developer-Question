@@ -1,0 +1,7 @@
+LOGICAL GATE WITH ALL CONCENPT :- https://www.youtube.com/watch?v=Hjw_w019GZ8
+RISC Architecture :- https://www.youtube.com/watch?v=u9u72NdnLHU&t=426s
+CISC Architecture :- https://www.youtube.com/watch?v=E-CdHvAikBU
+Addressing Modes :- https://www.youtube.com/watch?v=BWrS10XRM60
+Programmed IO :- https://www.youtube.com/watch?v=_GlKBqsQXrQ
+Karnaugh Map :- https://www.youtube.com/watch?v=JRR8RCKMKjA
+JK Flip Flop :- https://www.youtube.com/watch?v=i90odXP4y20
