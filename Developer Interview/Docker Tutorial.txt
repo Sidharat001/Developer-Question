@@ -1,0 +1,86 @@
+=====================================================================================
+=                           DOCKER CONTAINER COMMANDS                              =
+=====================================================================================
+Command                                       | Description
+---------------------------------------------|--------------------------------------------------------------
+docker container ps                          | Lists all currently **running containers**
+docker container ps -a                       | Lists **all containers** (running, stopped, exited)
+docker container ls                          | Same as `docker container ps`
+docker container run [OPTIONS] IMAGE         | Creates & starts a container from an image
+                                             | e.g., `docker run -it ubuntu bash` opens Ubuntu shell
+
+docker container start [CONTAINER]           | Starts a previously stopped container
+docker container stop [CONTAINER]            | Gracefully stops a running container
+docker container restart [CONTAINER]         | Stops & restarts a container
+docker container rm [CONTAINER]              | Removes a container (must be stopped first)
+
+docker container exec -it [CONT] bash        | Runs a command inside a running container (interactive)
+                                             | e.g., open terminal: `exec -it nginx bash`
+
+docker container logs [CONTAINER]            | Shows logs of a container (stdout/stderr)
+docker container inspect [CONTAINER]         | Shows detailed config & metadata (in JSON)
+docker container top [CONTAINER]             | Shows running processes inside the container
+docker container stats                       | Shows real-time usage stats (CPU, memory, etc.)
+docker container prune                       | Removes **all stopped containers** to free space
+
+
+=====================================================================================
+=                               DOCKER IMAGE COMMANDS                              =
+=====================================================================================
+docker image ls                              | Lists all locally stored Docker images
+docker images                                | Alias for `docker image ls`
+
+docker image pull [IMAGE]                    | Downloads an image from Docker Hub
+                                             | e.g., `docker pull node:18-alpine`
+
+docker image push [IMAGE]                    | Pushes an image to Docker Hub (requires login)
+docker image build -t [NAME] .               | Builds image from Dockerfile in current directory
+                                             | `-t` tags it with a name (e.g., `myapp:latest`)
+
+docker image tag [IMG] [NEW_TAG]             | Tags an image with a new name (for repo or version)
+docker image rm [IMAGE]                      | Deletes a local image
+docker image inspect [IMAGE]                 | Displays JSON metadata about an image
+docker image prune                           | Deletes all **unused (dangling)** images
+
+
+=====================================================================================
+=                              DOCKER VOLUME COMMANDS                              =
+=====================================================================================
+docker volume create [NAME]                  | Creates a new named volume for persistent data
+docker volume ls                             | Lists all volumes on the host
+docker volume inspect [VOLUME]               | Shows detailed info about a volume
+docker volume rm [VOLUME]                    | Removes a volume (must not be in use)
+docker volume prune                          | Removes all **unused** volumes
+
+
+=====================================================================================
+=                              DOCKER NETWORK COMMANDS                             =
+=====================================================================================
+docker network ls                            | Lists all networks (bridge, host, custom, etc.)
+docker network create [NAME]                 | Creates a new network
+                                             | e.g., `docker network create my-network`
+
+docker network inspect [NETWORK]             | Shows info about a network (IP ranges, connected containers)
+docker network rm [NETWORK]                  | Removes a user-defined network
+docker network prune                         | Removes **all unused** networks
+
+
+=====================================================================================
+=                              DOCKER SYSTEM COMMANDS                              =
+=====================================================================================
+docker system df                             | Shows Docker disk space usage (images, volumes, containers)
+docker system prune                          | Cleans up everything unused (images, volumes, networks, etc.)
+docker info                                  | Shows detailed info about Docker engine & host
+docker version                               | Shows installed Docker client & server version
+
+
+=====================================================================================
+=                               DOCKERFILE REFERENCE                               =
+=====================================================================================
+# A basic Node.js Dockerfile example:
+
+FROM node:18                                 | Base image
+WORKDIR /app                                 | Set working directory inside container
+COPY . .                                     | Copy local files into container
+RUN npm install                              | Install dependencies
+CMD ["npm", "start"]                         | Default command when container starts

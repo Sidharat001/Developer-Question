@@ -1,0 +1,11 @@
+How to modularize routes using Express Router?
+
+Compression Module :- https://www.youtube.com/watch?v=jZ6x5Ab7Bgc&t=1s
+
+helmet & express-rate-limit & Morgan & Compression Module
+
+CSRF & Sanitize-Html & Express Mongoose Sanitize 
+
+Passport.js & express-validator & multer
+
+Cookie & Session & Local Storage & Caching

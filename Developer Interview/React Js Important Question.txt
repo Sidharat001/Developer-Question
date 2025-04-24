@@ -1,0 +1,79 @@
+React vs Angular and where it's Use :- 
+https://tinyurl.com/whereUses
+
+Types useState :- https://tinyurl.com/TypesUseState
+
+HOC :- https://tinyurl.com/ReactHOC
+
+Pure Component  :- https://tinyurl.com/PureComponent
+A PureComponent in React is a class component that implements the shouldComponentUpdate lifecycle method with a shallow comparison of props and state. This optimization prevents unnecessary re-renders when the props and state haven't changed, improving performance. It is useful for components with complex state or props, ensuring updates only occur when necessary, leading to a more efficient rendering process.
+
+Life Cycle of React :- https://tinyurl.com/lifeCycleofReact
+Example :- Mouting ---> Updating ---> Unmounting
+
+Life Cycle Methods :- 
+https://tinyurl.com/LifeCycleMethods
+https://tinyurl.com/LifeCycleImage
+
+Code Splitting & Lazy Loading :- https://tinyurl.com/Lazyload01
+Code splitting in React is a technique used to optimize application performance by dividing the code into smaller chunks, which are loaded on demand
+
+Lifting State Up :- https://tinyurl.com/LiftingStateUp1 
+
+Props Drilling & Context Api :- 
+https://tinyurl.com/PYGContextAPI
+https://tinyurl.com/Propsdrilling
+https://tinyurl.com/ContextAPI01
+
+Context API vs Redux :- https://tinyurl.com/ReduxVsContextAPI
+
+Error Boundaries :- https://tinyurl.com/Errorboundaries
+
+React Portal :- https://tinyurl.com/reactportals
+
+Controlled & Uncontrolled Component :- https://tinyurl.com/CvsUcComponents
+
+React’s Reconciliation Algorithm || Diffing Algorithm :- https://tinyurl.com/RDAlgorithm
+
+Hooks :- https://tinyurl.com/ReactJsHooks
+
+useMemo vs useCallback :- https://tinyurl.com/UseMemovsUseCallBack
+
+React Interview Question :- https://tinyurl.com/SYGReactInterview
+
+React Common Interview Question :-
+----------------------------------
+1.Life Cycle with Method
+2.Class vs Function Component
+3.HOC Component
+4.Explain Error Boundary
+5.UseRef
+6.Control vs Uncontrol Component 
+7.Prop Drilling And Context API
+8.Lifting State Up
+9.Router Dom
+10.Pure Components (React.memo)
+11.Lazy Load and Code Splitting
+12.useMemo vs useCallback
+13.Reconciliation
+14.Portal
+
+React Performance Techniques :-
+--------------------------------
+1. Use Production Build
+2. Use React.memo() or Pure Components
+3. Use useCallback and useMemo
+4. Avoid Anonymous Functions in JSX
+5. Code Splitting with React.lazy & Suspense
+6. Bundle Optimization (Webpack, Vite, or Parcel)
+7. Virtualize Long List
+8. Minimize Re-renders
+9. Debounce or Throttle Events
+10. Use Cache
+
+
+admin login :- QcrsUB3DepEDGeH
+Transaction password :- N2Dj8GJuEnru78h
+docs :- https://docs.google.com/spreadsheets/d/1wJ3-3OBFhaZlFIKP1HaJtC2XLW1sC0IM8ExRLmjisYE/edit?pli=1&gid=1489411570#gid=1489411570
+
+Portalsyt@#%987

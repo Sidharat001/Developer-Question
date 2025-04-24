@@ -1,0 +1,25 @@
+Instruction Pipelining with daigram
+
+full-address & half-address
+
+*K-map*
+
+Cache Memory
+
+J-K Flip Flop
+
+role of segment register
+
+RAID
+
+*interrupt driven*
+
+*role of Int 21h in 8086*
+
+Com vs Exe
+
+Decoder and Encoder
+
+Programmed & DMA
+
+Master-Slave flip-flop

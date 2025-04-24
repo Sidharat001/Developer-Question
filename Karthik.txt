@@ -1,0 +1,23 @@
+---Maths-----
+BCS012
+MCS013
+BCS040
+BCS054
+
+---- Theory -----
+BCS051
+BCS042
+BCS041
+MCS014
+MCS023
+MCS012
+
+--- Optional ----
+BCS055
+
+-----Lab------
+BCSL056
+BCSL057
+BCSL058
+BCSL-043
+BCSL-044

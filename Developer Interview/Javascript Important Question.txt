@@ -1,0 +1,77 @@
+Foreach & map & Filter & Reduce & Find & flat :-
+https://tinyurl.com/forEachvsMap
+https://tinyurl.com/loopMethods
+
+Debouncing and Throttling :- 
+https://tinyurl.com/DebouncingvsThrottling
+https://tinyurl.com/PYGDebouncingvsThrottling
+
+Deep vs Shallow Copy :- https://tinyurl.com/DeepVsShallowCopy
+
+Execution Context :- 
+https://tinyurl.com/ExecutionContext
+https://tinyurl.com/PYGExecutionContext
+
+Hoisting & Temporal Dead Zone :- https://tinyurl.com/JsHoisting
+
+Closure :- https://tinyurl.com/JsClosure0
+
+Callback Hell :- https://tinyurl.com/JsCallbackHell
+
+Prototypes & Inheritances :- https://tinyurl.com/PrototypesJS
+
+Event Loop & Microtasks :- https://tinyurl.com/DeepEventloop
+
+Truthy and Falsy :- https://tinyurl.com/ProCoderFalsyValue
+
+this Keyword & Binding :- 
+https://tinyurl.com/BindingJS
+https://tinyurl.com/RSCBinding
+
+Currying & Partial Application :- 
+https://tinyurl.com/PYGCurring
+https://tinyurl.com/RSCCurrying
+
+Memory Leaks & Garbage Collection :- 
+https://tinyurl.com/JSGarbageCollection
+https://tinyurl.com/GarbageCollectionProcess
+
+Event Delegation :- https://tinyurl.com/TSEventDelegation
+
+IndexedDB :- https://tinyurl.com/IndexDBJs
+
+Web Worker :- https://tinyurl.com/JSwebWorker
+
+Tagged Template Literals :- https://tinyurl.com/TaggedTemplateLiterals
+
+WeakMap & WeakSet & Map & Set :- https://tinyurl.com/TSJWeakSet
+
+Dynamic Imports & Code Splitting :- 
+
+Functional Composition & Pipelining :- 
+
+Immutability with Object.freeze() and deepClone :- 
+
+Heap vs Stack Memory :-
+
+Event Bubbling & Event Capturing :-
+
+Decorators :-
+
+Getter vs Setter :-
+
+Factory Function :- https://tinyurl.com/ConstructorvsFactoryFunction
+
+Null & Undefined :-
+
+Proxy & Reflect API:- https://tinyurl.com/PYGProxyvsReflect
+
+Memoize :- 
+
+Deep Object Filter & Marge :-
+
+Query Batching :-
+
+for. Of & for..in
+Promise & Callbacks
+Set

@@ -1,0 +1,34 @@
+PHP Interview Question
+-----------------------
+working mechanism of php
+$ vs $$ variable
+Explain the importance of Parser in PHP
+What are Traits in PHP
+PHP streams
+autoloading in PHP
+lazy loading
+What is an opcode cache
+CSRF tokens
+type hinting in PHP
+Repository Pattern in PHP
+
+Laravel Interview Question
+---------------------------
+Eloquent ORM
+Composer in Laravel
+CSRF protection
+Laravel Blade
+Migrations
+Laravel Artisan
+Eloquent Relationships
+Laravel Events and Listeners
+Laravel Facades
+Method Injection
+Laravel Localization
+Laravel Homestead
+Laravel Queues
+Laravel Policies and Gates
+Laravel Cashier
+Laravel Validation
+Laravel Scout
+Laravel Telescope

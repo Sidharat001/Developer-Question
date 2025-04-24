@@ -2,7 +2,7 @@ REPL :- https://tinyurl.com/REPL0
 
 Event Loop :- https://tinyurl.com/eventsloop
 
-Phases of Event Loop :-
+Phases of Event Loop :-https://tinyurl.com/EventloopPhase
 
 Libuv :- https://tinyurl.com/0libuv
 
@@ -36,6 +36,10 @@ https://tinyurl.com/NodeMailerGit
 
 Reverse Proxy :- https://tinyurl.com/ReverseProxy01
 
+SetImmediate vs SetTimeout vs Process.nextTick :- https://tinyurl.com/setTimeoutvsProcessNextick
+
+Fetch vs. Axios :- https://www.youtube.com/watch?v=OFWATycG_Wc 
+
 REST and GraphQL
 OWASP Concept 
 Rate Limit
@@ -45,3 +49,17 @@ Session
 Socket
 Role Types Authentication :- 
 SSL & TLS Working
+
+Node Js Interview Question :- 
+----------------------------
+1.Event Loop
+2.Node Js How To Handle concurrency
+3.REPL 
+4.Event Driven Programing
+5.Buffer & Stream
+6.Callback Hell
+7.Cors
+8.TLS
+9.Cluster
+10.Phase of Event loop
+12.Libuv

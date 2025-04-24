@@ -1,0 +1,30 @@
+Cross Join :- https://tinyurl.com/YBCrossJoin
+
+All Joins :- https://tinyurl.com/AllJoinsSql
+
+Indexing :- 
+https://tinyurl.com/IndexingSQL
+https://tinyurl.com/IndexSQL
+
+View :- https://tinyurl.com/ViewMySQL
+
+Transaction & ACID properties :- https://tinyurl.com/DBTransaction
+
+Char & Varchar :- https://tinyurl.com/CHARvsVARCHAR
+
+ROUND & QUARTER :- 
+
+InnoDB & MyIsam Storage Engine
+Cluster & Non-Cluster Index
+Triggers
+Explain Statement
+Deadlocks
+Temporary & Derived Table
+Event Scheduling
+
+
+
+
+
+
+Ticket No :- 811338C
