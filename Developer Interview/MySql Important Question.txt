@@ -22,9 +22,25 @@ Deadlocks
 Temporary & Derived Table
 Event Scheduling
 
+Type Of Index
+--------------
+Single
+Composite / Compound Index
+Unique Index
+Clustered Index
+Non-Clustered Index
+Full-Text Index
+Hash Index
+Partial / Filtered Index
 
-
-
-
-
-Ticket No :- 811338C
+All Database Common Concept
+----------------------------
+Indexing
+View (Materialized vs Temp)
+Vertical Scaling 
+Sharding
+Replication
+Caching
+Normalize & De-Normalize
+Transaction
+ACID properties
