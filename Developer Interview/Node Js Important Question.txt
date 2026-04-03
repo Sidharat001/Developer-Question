@@ -1,3 +1,36 @@
+Node Js Core Concept 
+-----------------------------------
+Why Node.js single-threaded & Work Flow
+event-driven architecture
+event loop (phases)
+EventEmitter
+streams and Types (Readable, Writable, Duplex, Transform)
+piping & buffers & backpressure
+clustering
+child processes 
+spawn vs fork vs exec
+IPC
+microtasks vs macrotasks
+libuv work
+thread pool
+worker threads
+Round Robin Method
+dependency injection
+
+
+Node.js Optimization Techniques 
+---------------------------------
+Clustering
+Caching Strategy
+Stream
+Worker Threads
+Rate Limiting & Throttling
+Compression & Payload Optimization
+Optimize Database Queries
+Use Async & Await
+Use Streams
+
+
 REPL :- https://tinyurl.com/REPL0
 
 Event Loop :- https://tinyurl.com/eventsloop

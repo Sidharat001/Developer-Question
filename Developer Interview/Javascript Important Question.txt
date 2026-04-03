@@ -1,6 +1,37 @@
-Foreach & map & Filter & Reduce & Find & flat :-
-https://tinyurl.com/forEachvsMap
-https://tinyurl.com/loopMethods
+JavaScript Core Concept 
+--------------------------
+Type Coercion
+This Keyword
+call, apply, and bind
+Hoisting & Closure
+Spread & Rest Operator
+Event Loop (microtasks & macrotasks)
+Callbacks & Promises 
+High Order Functions & Pure Functions & Currying Functions
+Memoization Function
+Event Delegation & Event Bubbling
+Debouncing and Throttling
+Shallow Copy vs Deep Copy
+Prototypal Inheritance & Prototype Chain
+__proto__ vs prototype
+Getters vs Setters
+Garbage Collection
+Yield
+Proxies & Reflect API
+Tree shaking
+Web Workers
+mark-and-sweep algorithm
+
+
+JavaScript Important Question
+------------------------------
+JavaScript engine work (V8 internals)
+What are hidden classes in V8?
+How does Promise chaining work internally?
+Implement offline-first caching strategy
+zones and execution tracking
+
+
 
 Debouncing and Throttling :- 
 https://tinyurl.com/DebouncingvsThrottling

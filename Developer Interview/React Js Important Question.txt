@@ -47,8 +47,8 @@ React Common Interview Question :-
 2.Class vs Function Component
 3.HOC Component
 4.Explain Error Boundary
-5.UseRef
-6.Control vs Uncontrol Component 
+5.React Fiber & Fiber architecture
+6.Concurrent Rendering
 7.Prop Drilling And Context API
 8.Lifting State Up
 9.Router Dom
@@ -57,6 +57,7 @@ React Common Interview Question :-
 12.useMemo vs useCallback
 13.Reconciliation
 14.Portal
+15.Tree Shaking
 
 React Performance Techniques :-
 --------------------------------
@@ -70,10 +71,17 @@ React Performance Techniques :-
 8. Minimize Re-renders
 9. Debounce or Throttle Events
 10. Use Cache
+11. Avoid Inline Objects & Functions in JSX
+12. CSR, SSR, SSG, or ISR
 
-
-admin login :- QcrsUB3DepEDGeH
-Transaction password :- N2Dj8GJuEnru78h
-docs :- https://docs.google.com/spreadsheets/d/1wJ3-3OBFhaZlFIKP1HaJtC2XLW1sC0IM8ExRLmjisYE/edit?pli=1&gid=1489411570#gid=1489411570
-
-Portalsyt@#%987
+Redux Important Question
+------------------------------
+Core principles
+Store & Action & Reducer
+createStore & configureStore & combineReducers
+Immer
+Middleware 
+Redux Thunk & Redux Saga & Logger
+mapStateToProps vs useSelector
+mapDispatchToProps vs useDispatch
+selectors

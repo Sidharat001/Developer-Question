@@ -24,23 +24,52 @@ Event Scheduling
 
 Type Of Index
 --------------
-Single
+B-Tree Index
+Hash Index
+Full-Text Index
+Single Column Index
 Composite / Compound Index
 Unique Index
 Clustered Index
 Non-Clustered Index
-Full-Text Index
-Hash Index
 Partial / Filtered Index
+GIN (Generalized Inverted Index)
 
-All Database Common Concept
-----------------------------
-Indexing
-View (Materialized vs Temp)
-Vertical Scaling 
-Sharding
-Replication
-Caching
-Normalize & De-Normalize
-Transaction
-ACID properties
+
+Optimization Techniques
+------------------------
+1. Use Indexes
+2. Avoid SELECT *
+3. Use WHERE Filters Early
+4. Use Proper JOINs
+5. Avoid Functions in WHERE Clause
+6. Use LIMIT
+7. Use EXISTS Instead of IN
+8. Use Query Execution Plan
+9. Partition Large Tables
+10. Use Proper Data Types
+11. Avoid Too Many Indexes
+12. Use Caching
+12. Batch Operations
+
+
+Database Common Interview Question :-
+------------------------------------
+1. Sharding & Replication
+2. Partitioning
+3. Cursor
+4. Indexing (clustered & non-clustered)
+5. Joins 
+6. Nested Loop Join vs Hash Join
+7. View (Materialized vs Temp) & CTE
+8. Stored procedures & User Define Function & Window Function
+9. Caching
+10. Normalize & De-Normalize
+11. Transaction & DeadLock
+12. Commit & Rollback & SAVEPOINT
+13. ACID properties
+14. Trigger
+15. Concurrency
+16. MVCC
+17.VACUUM & AUTOVACUUM
+18.Isolation levels
