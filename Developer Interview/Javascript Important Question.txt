@@ -6,7 +6,7 @@ call, apply, and bind
 Hoisting & Closure
 Spread & Rest Operator
 Event Loop (microtasks & macrotasks)
-Callbacks & Promises 
+Callbacks & Promises & Promises Pool & Function Chaining
 High Order Functions & Pure Functions & Currying Functions
 Memoization Function
 Event Delegation & Event Bubbling
@@ -30,6 +30,33 @@ What are hidden classes in V8?
 How does Promise chaining work internally?
 Implement offline-first caching strategy
 zones and execution tracking
+
+
+Full Execution Priority Order
+-----------------------------
+1. Synchronous Code (Call Stack)
+2. process.nextTick (Node.js only)  ← highest priority async
+3. Microtasks Queue
+   - Promise.then / catch / finally
+   - queueMicrotask
+   - MutationObserver (browser)
+4. Macrotasks Queue
+   - setTimeout / setInterval
+   - setImmediate (Node.js)
+   - I/O callbacks
+   - UI events (click, etc.)
+
+Example :- 
+-----------------------------
+CALL STACK (sync)
+   ↓
+process.nextTick (Node.js)
+   ↓
+MICROTASK QUEUE (Promises)
+   ↓
+MACROTASK QUEUE (Timers, I/O, Events)
+   ↓
+RENDER (Browser only)
 
 
 

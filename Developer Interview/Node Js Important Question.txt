@@ -83,6 +83,17 @@ Socket
 Role Types Authentication :- 
 SSL & TLS Working
 
+
+Event Loop Phases (in order)
+-------------------------------
+1. Timer :- execute all timer function like setTimeOut() & setTimeInterval()
+2. Pending Callbacks :- execute deferred callbacks
+3. Idle / Prepare :- Node Is used internally
+4. Poll Phase :- Handles incoming I/O
+5. Check Phase :- Run setImmediate() function
+6. Close Callbacks :- close all event connection
+
+
 Node Js Interview Question :- 
 ----------------------------
 1.Event Loop
